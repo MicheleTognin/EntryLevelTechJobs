@@ -1,3 +1,3 @@
 # EntryLevelTechJobs
 
-Onlinw website on https://entryleveltechjobs.net/
+Online website on https://entryleveltechjobs.net/
